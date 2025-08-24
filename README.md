@@ -6,5 +6,5 @@
 🎯 Objetivo: me tornar um desenvolvedor completo, unindo **Front-End** e **Back-End** no futuro.  
 📚 Próximos passos: **JavaScript avançado**, **React** e **Banco de Dados**.  
 
-📫 **Conecte-se comigo no LinkedIn:** [linkedin.com/in/fellipesilva](https://linkedin.com/in/seu-linkedin)  
+📫 **Conecte-se comigo no LinkedIn:** (https://www.linkedin.com/in/fellipe-jesus-5116a6380/)
 ✨ Confira meus projetos aqui no GitHub e deixe uma ⭐ se gostar!  
